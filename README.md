@@ -1,1 +1,1 @@
-![image](https://github.com/jiangkai21/tu/blob/main/photo/tupian.png)
+![image](https://raw.githubusercontent.com/jiangkai21/tu/main/photo/tupian.png)
